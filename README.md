@@ -23,8 +23,9 @@ Aplicação simples de clima que permite buscar informações meteorológicas de
 ## Melhorias futuras
 
 -  Alterar o fundo do app dinamicamente com base na cidade pesquisada
-- Exibir ilustrações turísticas de acordo com a localização
+-  Exibir ilustrações turísticas de acordo com a localização
 -  Identificar país/estado automaticamente a partir da cidade
+-  Previsão para próximos dias
 
 ### Exemplos de ideia
 
